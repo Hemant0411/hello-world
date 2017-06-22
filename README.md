@@ -6,11 +6,11 @@ i'm a programmer! shannaro!
 
 i'm a cat!
 
-#thug life#
+#thug life
 
 **this is a trial**
 
-*~~again a trial*
+*again a trial*
 
 >hemant pandey
 
@@ -25,4 +25,4 @@ i'm a cat!
 
 @hemant0411
 
-:EMOJICODECAT:
+   
